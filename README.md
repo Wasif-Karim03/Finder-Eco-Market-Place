@@ -133,9 +133,9 @@ We welcome contributions to Finder! for details on our code of conduct and the p
 
 Ohio Wesleyan University - For providing essential support, resources, and encouragement that enabled us to participate and thrive in this project.
 
--Liam Davidson (OWU '25) – For his invaluable feedback, technical expertise, and steadfast support during the hackathon. His dedication and insights helped shape our project’s direction and impact.
--Evan Nolan (OWU '25) – For his creativity and collaboration during brainstorming sessions. Evan's innovative ideas added depth and focus to the project.
--Souvick Rodrigues (OWU '25) – For his positive energy and musical talent that lifted team spirits. His singing kept morale high and made the experience even more enjoyable.
+- **Liam Davidson (OWU '25)** – For his invaluable feedback, technical expertise, and steadfast support during the hackathon. His dedication and insights helped shape our project’s direction and impact.
+- **Evan Nolan (OWU '25)** – For his creativity and collaboration during brainstorming sessions. Evan's innovative ideas added depth and focus to the project.
+- **Souvick Rodrigues (OWU '25)** – For his positive energy and musical talent that lifted team spirits. His singing kept morale high and made the experience even more enjoyable.
 
 
 - **FlutterFlow team** - For providing an excellent development platform that made our rapid prototyping possible
