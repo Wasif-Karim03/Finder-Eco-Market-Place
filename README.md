@@ -131,14 +131,12 @@ flutter run
 We welcome contributions to Finder! for details on our code of conduct and the process for submitting pull requests.
 
 
-## 🙏 Acknowledgments
+Ohio Wesleyan University - For providing essential support, resources, and encouragement that enabled us to participate and thrive in this project.
 
-- **HackPrinceton 2024** - Where this project was initially conceived and developed during the 36-hour hackathon at Princeton University
+    Liam Davidson (OWU '25) – For his invaluable feedback, technical expertise, and steadfast support during the hackathon. His dedication and insights helped shape our project’s direction and impact.
+    Evan Nolan (OWU '25) – For his creativity and collaboration during brainstorming sessions. Evan's innovative ideas added depth and focus to the project.
+    Souvick Rodrigues (OWU '25) – For his positive energy and musical talent that lifted team spirits. His singing kept morale high and made the experience even more enjoyable.
 
-- **Hobart and William Smith Robotics Club**
-  - Liam Davidson – For invaluable feedback, technical expertise, and driving support during the Hackathon
-  - Evan Nolan – A great contributor for brainstorming.
-  - Souvick Rodrigues – A wonderful singer. 
 
 - **FlutterFlow team** - For providing an excellent development platform that made our rapid prototyping possible
 
