@@ -7,7 +7,7 @@ Finder is a campus-specific marketplace application that revolutionizes how coll
 🔗 **[Try Finder here](https://findar-usbq5f.flutterflow.app/)** 
 
 ## 📊 Project Presentation
-View our [project presentation slides here](https://www.canva.com/design/DAGV8yq8KAk/klKNh6kRpGF2QDjar34g_A/view?utm_content=DAGV8yq8KAk&utm_campaign=designshare&utm_medium=link&utm_source=editor#3) to learn more about Finder’s features, design, and development process.
+View our [project presentation slides here]([https://www.canva.com/design/DAGV8yq8KAk/klKNh6kRpGF2QDjar34g_A/view?utm_content=DAGV8yq8KAk&utm_campaign=designshare&utm_medium=link&utm_source=editor#3](https://www.canva.com/design/DAGV8yq8KAk/klKNh6kRpGF2QDjar34g_A/view?utm_content=DAGV8yq8KAk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)) to learn more about Finder’s features, design, and development process.
 
 ## 🎯 Problem Statement
 
