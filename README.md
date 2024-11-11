@@ -94,7 +94,7 @@ flowchart TD
 git clone https://github.com/yourusername/finder-app.git
 ```
 
-2. Navigate to project directory
+2. Navigate to the project directory
 ```bash
 cd finder-app
 ```
