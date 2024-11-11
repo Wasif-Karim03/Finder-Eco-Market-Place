@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394976736560",
+    "project_id": "finder-72844",
+    "storage_bucket": "finder-72844.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394976736560:android:c1b0f57133f99fe62ec4f5",
+        "android_client_info": {
+          "package_name": "com.mycompany.findar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm8VWU4ly0hqrq2O_9Hv-1Dfzu5pPcYQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
