@@ -4,6 +4,8 @@
 
 Finder is a campus-specific marketplace application that revolutionizes how college communities buy and sell items. Inspired by Tinder's intuitive interface, Finder creates a secure, anonymous platform for students and staff to trade items within their campus community.
 
+🔗 **[Try Finder here](https://findar-usbq5f.flutterflow.app/)** 
+
 ## 🎯 Problem Statement
 
 College students often discard useful items during moves or upgrades, while others might need these same items. There's no efficient, campus-specific platform to connect these two groups. Finder bridges this gap while promoting sustainability.
